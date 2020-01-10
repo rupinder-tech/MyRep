@@ -11,7 +11,7 @@ public class DemoList {
 		List<String> l1 = new ArrayList<String>();
 		l1.add("ABC");
 		l1.add("ABC");
-		l1.add("IBM");
+		l1.add("AT&T");
 		
 		ListIterator<String> itr = l1.listIterator();
 		
